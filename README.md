@@ -12,3 +12,7 @@ The game map is a geographically-accurate map of the world. Varying levels of zo
 
 ## The unit
 
+The game has only one unit, which is called a 'tribesperson', 'subject' or 'citizen' (and other such names), depending on the organisation of the society. The unit can assigned and reassigned to various functions, such as resource-gathering, farming, construction, soldiering and exploration, but becomes more effective and efficient through a combination of aptitude and experience.
+
+## Technological development
+
